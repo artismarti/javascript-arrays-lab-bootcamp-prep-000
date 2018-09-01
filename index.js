@@ -17,7 +17,6 @@ function appendKitten(name) {
   tempKittens.push(name)
   return tempKittens
 }
-}
 function prependKitten(name) {
   
 }
