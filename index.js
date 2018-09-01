@@ -18,7 +18,9 @@ function appendKitten(name) {
   return tempKittens
 }
 function prependKitten(name) {
-  
+  var tempKittens = kittens.slice()
+  tempKittens.unshift(name)
+  return tempKittens
 }
 function removeLastKitten() {
   
