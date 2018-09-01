@@ -8,3 +8,6 @@ function destructivelyPrependKitten() {
 function destructivelyRemoveLastKitten() {
   
 }
+function appendKitten(name) {
+  
+}
