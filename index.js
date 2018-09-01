@@ -11,3 +11,4 @@ function destructivelyRemoveLastKitten() {
 function appendKitten(name) {
   
 }
+function prependKitten(name)
