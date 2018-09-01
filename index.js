@@ -9,7 +9,7 @@ function destructivelyRemoveLastKitten() {
   kittens.pop()
 }
 function destructivelyRemoveFirstKitten() {
-  kittens.pop()
+  kittens.shift()
 }
 function appendKitten(name) {
   
